@@ -1,0 +1,9 @@
+pojo\Item.class
+tests\GitHubAPITest.class
+utilities\GitHubRepoExceptions.class
+utilities\JSONHandler.class
+pojo\GitHubResponse.class
+pojo\Owner.class
+utilities\HttpManager.class
+utilities\Log.class
+utilities\ConfigFileReader.class
